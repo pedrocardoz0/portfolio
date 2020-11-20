@@ -11,19 +11,17 @@ class Skill extends Component {
                     <MenuComponent />
                     <Container text>
                         <Header as='h1' dividing style={{fontFamily: "test2"}}>
-                            Experience
+                            Experiência
                         </Header>
-                        <Header as='h3' style={{fontFamily: "test2"}}>Life (Intern)</Header>
+                        <Header as='h3' style={{fontFamily: "test2"}}>Life (Estagiário)</Header>
                         <p>
-                            A container is a fixed width element that wraps your site's content. It remains a constant
-                            size and uses <b>margin</b> to center. Containers are the simplest way to center page
-                            content inside a grid.
+                            Experiência em desenvolvimento de aplicações <b>Mobile</b> e <b>Web</b>
                         </p>
                     </Container>
                     
                     <Container text>
                         <Header as='h1' dividing style={{fontFamily: "test2", paddingTop: 50}}>
-                            Skills
+                            Habilidades
                         </Header>
 
                     <Grid  container stackable>
@@ -73,14 +71,9 @@ class Skill extends Component {
 
                     <Container text>
                         <Header as='h1' dividing style={{fontFamily: "test2", paddingTop: 50}}>
-                            Education
+                            Educação
                         </Header>
-                        <Header as='h3' style={{fontFamily: "test2"}}>Infromation System (Bachelor) - Univem</Header>
-                        <p>
-                            A container is a fixed width element that wraps your site's content. It remains a constant
-                            size and uses <b>margin</b> to center. Containers are the simplest way to center page
-                            content inside a grid.
-                        </p>
+                        <Header as='h3' style={{fontFamily: "test2"}}>Sistemas de Informação (Bacharel) - Univem</Header>
                     </Container>
 
                 </div>

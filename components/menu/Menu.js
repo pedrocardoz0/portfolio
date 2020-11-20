@@ -19,13 +19,13 @@ function MenuComponent() {
 
             <Menu.Item
                 end="/skills"
-                name="My skills"
+                name="Habilidades"
                 onClick={handleItemClick}
             />
 
             <Menu.Item
                 end="/about"
-                name="More about me"
+                name="Serviços"
                 onClick={handleItemClick}
             />
         </Menu>

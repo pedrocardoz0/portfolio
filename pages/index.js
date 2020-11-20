@@ -45,7 +45,7 @@ export default class Home extends Component {
               <Grid.Row>
                 <Grid.Column width={8}>
                   <Header as="h1" style={{ fontSize: "2em" }} style={{fontFamily: "test2"}}>
-                    A little bit about me
+                    Um pouco sobre mim
                   </Header>
                   <p style={{ fontSize: "1.33em" }}>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet dictum ex.
@@ -53,7 +53,7 @@ export default class Home extends Component {
                     ut eleifend felis pulvinar. Pellentesque congue commodo sapien, at sollicitudin odio eleifend sit amet.
                   </p>
                   <Header as="h1" style={{ fontSize: "2em" }} style={{fontFamily: "test2"}}>
-                    What i'm doing here ?
+                    Hobbies
                   </Header>
                   <p style={{ fontSize: "1.33em" }}>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet dictum ex.
@@ -73,7 +73,7 @@ export default class Home extends Component {
           </Segment>
           
           <Header as="h1" style={{ fontSize: "3em" }} style={{ fontFamily: "test2", fontSize: 35 }}>
-            Open project's that i have made
+            Projetos Open Source que participei
           </Header>
 
           <Segment style={{ padding: "3em 0em" }} vertical>
@@ -83,9 +83,9 @@ export default class Home extends Component {
               </Header>
               
               <p style={{ fontSize: "1.33em" }}>
-                Instead of focusing on content creation and hard work, we have learned how to master the
-                art of doing nothing by providing massive amounts of whitespace and generic content that
-                can seem massive, monolithic and worth your attention.
+                Com a pandemia da covid-19 surgiu a necessidade de digitalização dos casos dos pacientes, a Life em 
+                conjunto com a Unimed, ASSERTI e ACIM iniciaram um Hackathon para crianção de uma plataforma digital
+                para o registro e acompanhamento da doença.
               </p>
 
               <Button as="a" size="large" href={"https://www.hackathonpelavida.com.br/"}>
@@ -93,13 +93,12 @@ export default class Home extends Component {
               </Button>
 
               <Header as="h3" style={{ fontSize: "2em" }} style={{ fontFamily: "test2", fontSize: 25 }}>
-                Go to my github
+                Meu github
               </Header>
 
               <p style={{ fontSize: "1.33em" }}>
-                Yes I know you probably disregarded the earlier boasts as non-sequitur filler content, but
-                it"s really true. It took years of gene splicing and combinatory DNA research, but our
-                bananas can really dance.
+                Você pode conferir os meus repositórios e conhecer um pouco das ferramentas que trabalho
+                e meus arquivos de estudos.
               </p>
 
               <Button as="a" size="large" href={"https://github.com/pedrocardoz0"}>
@@ -117,7 +116,7 @@ export default class Home extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Thx for you attention! Hope to see you ASAP
+            Obrigado pela sua atenção! © Pedro Cardozo
           </a>
         </footer>
       </div>
