@@ -48,18 +48,18 @@ export default class Home extends Component {
                     Um pouco sobre mim
                   </Header>
                   <p style={{ fontSize: "1.33em" }}>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet dictum ex.
-                    Vestibulum vulputate risus vel ante venenatis,
-                    ut eleifend felis pulvinar. Pellentesque congue commodo sapien, at sollicitudin odio eleifend sit amet.
+                    Estudante de Sistemas de Informação, atualmente trabalho na Life no setor de
+                    engenharia de software, busco sempre aplicar meus conhecimentos e melhorá-los
+                    da melhor maneira possível. Sou um eterno estudante e apaixonado por novas
+                    tecnologias, sempre busco diferentes fontes de conhecimentos.
                   </p>
                   <Header as="h1" style={{ fontSize: "2em" }} style={{fontFamily: "test2"}}>
                     Hobbies
                   </Header>
                   <p style={{ fontSize: "1.33em" }}>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet dictum ex.
-                    Vestibulum vulputate risus vel ante venenatis, ut eleifend felis pulvinar.
-                    Pellentesque congue commodo sapien, at sollicitudin odio eleifend sit amet.
-                </p>
+                    No meu tempo livre gosto de jogar, ler, escutar música, andar de bicicleta ou
+                    procurar alguma coisa nova no github.
+                  </p>
                 </Grid.Column>
 
                 <Grid.Column floated="right" width={6}>
