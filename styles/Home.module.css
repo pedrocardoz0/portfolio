@@ -5,6 +5,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background: #fefbf4
 }
 
 .main {
@@ -36,13 +37,14 @@
 }
 
 .title a {
-  color: #0070f3;
+  color: #ffc93c;
   text-decoration: none;
 }
 
 .title a:hover,
 .title a:focus,
 .title a:active {
+  color: #ffc93c;
   text-decoration: underline;
 }
 
@@ -54,7 +56,7 @@
 
 .title,
 .description {
-  text-align: center;
+  text-align: left;
 }
 
 .description {
@@ -114,9 +116,35 @@
   height: 1em;
 }
 
+.rotate {
+  transform: rotate(90deg);
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;
     flex-direction: column;
   }
+}
+
+@font-face {
+  font-family: test;
+  src: url("/fonts/shlop_rg.otf") format("opentype");
+}
+
+@font-face {
+  font-family: test2;
+  src: url("/fonts/GT-America-Expanded-Bold.woff") format("woff");
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
 }
