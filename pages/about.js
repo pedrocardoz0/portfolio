@@ -17,7 +17,8 @@ export default function about() {
 
                 <Divider clearing hidden/>
                 <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pellentesque felis a est rhoncus tincidunt. Mauris maximus sollicitudin magna, et sagittis augue pretium vel. Nullam maximus lectus felis, ac mattis nibh pretium sit amet. Proin faucibus egestas elit non pretium. Aliquam ac malesuada felis.
+                    Ofereço soluções hibrídas, aplicações para <b>Android</b> e <b>iOS</b>. Realizo aplicações completas
+                    desde o frontend ao backend, meu ecossistema de trabalho são as stacks JS.
                 </p>
 
                 <Divider horizontal>E</Divider>
@@ -28,7 +29,8 @@ export default function about() {
 
                 <Divider clearing hidden/>
                 <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pellentesque felis a est rhoncus tincidunt. Mauris maximus sollicitudin magna, et sagittis augue pretium vel. Nullam maximus lectus felis, ac mattis nibh pretium sit amet. Proin faucibus egestas elit non pretium. Aliquam ac malesuada felis.
+                    Criação de Single Page Aplication, Portfólio, Sistemas Simples, ShowCases e etc. Minhas soluções web
+                    também estão ligadas aos frameworks Javascript (React).
                 </p>
 
             </Segment>
