@@ -84,8 +84,8 @@ export default class Home extends Component {
               
               <p style={{ fontSize: "1.33em" }}>
                 Com a pandemia da covid-19 surgiu a necessidade de digitalização dos casos dos pacientes, a Life em 
-                conjunto com a Unimed, ASSERTI e ACIM iniciaram um Hackathon para crianção de uma plataforma digital
-                para o registro e acompanhamento da doença.
+                conjunto com a Unimed, ASSERTI e ACIM iniciaram um Hackathon para criação de uma plataforma digital
+                focada no registro e acompanhamento da doença.
               </p>
 
               <Button as="a" size="large" href={"https://www.hackathonpelavida.com.br/"}>
